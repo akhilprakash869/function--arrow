@@ -11,4 +11,7 @@ console.log(sub(60,10));
 
 //modulus
 const modu=(x,y)=>x/y;
-console.log(modu(30,6));
+console.log(modu(30,6));]
+const total=(num1,num2)=>num1*num2;
+console.log(total(8,8));
+
