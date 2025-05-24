@@ -8,3 +8,7 @@ console.log(multi(9,9));
 //arrow sub
 const sub=(s,t)=>s-t;
 console.log(sub(60,10));
+
+//modulus
+const modu=(x,y)=>x/y;
+console.log(modu(30,6));
